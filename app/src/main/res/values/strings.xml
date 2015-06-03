@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Umbrella</string>
+
+
+    <string name="wunderground_key">5e9bfe21addd0cdb</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
